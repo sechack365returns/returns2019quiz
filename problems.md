@@ -9,3 +9,6 @@ layout: default
 ## Q1. 10を2進数で表すと？
 
 ## Q2. XXX
+
+<hr>
+&copy;Returns2019修了生企画運営チーム
