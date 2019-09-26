@@ -13,10 +13,10 @@ layout: default
 
 # How?
 1. 問題は[ProblemPage](problems)から閲覧
-1. [AnswerForm](https://forms.gle/dgywLn5rUfo66TZCA)で回答
+1. [AnswerForm](https://forms.gle/dgywLn5rUfo66TZCA)で解答
 1. 問題の正誤は[ScoreBoard](https://docs.google.com/spreadsheets/d/1h9N7AnMDEsDC3aBMOM_R-K8F8Scm_ecd3kgiAvLWh-8/edit?usp=sharing)で各自確認
   - 通知等はありません
-  - 修了生企画メンバーが手動採点しているので反映遅延あり（時刻は回答提出時刻をベースにするのでご安心下さい）
+  - 修了生企画メンバーが手動採点しているので反映遅延あり（時刻は解答提出時刻をベースにするのでご安心下さい）
 
 # Prizes
 制限時間内における獲得スコアの高い順6名に賞品を贈呈します。賞品は6つありますが、スコアが高かった順にお好きなものをお選びいただけます。
