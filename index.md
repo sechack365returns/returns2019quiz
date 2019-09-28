@@ -7,7 +7,7 @@ layout: default
 [ScoreBoard](https://docs.google.com/spreadsheets/d/1h9N7AnMDEsDC3aBMOM_R-K8F8Scm_ecd3kgiAvLWh-8/edit?usp=sharing)
 
 # Mission
-制限時間内にクイズを解き、できる限り高いスコアを獲得せよ。獲得スコアが高かった6名には賞品を贈呈する。
+制限時間内にクイズを解き、できる限り高いスコアを獲得せよ。獲得スコアが高かった <s>6名</s> 人には賞品を贈呈する。
 
 - 参加対象者: Returns2019に出席しているSecHack365修了生
 - 制限時間: 14:10- <s>15:20</s> 15:45 Septembar 28, 2019 JST
