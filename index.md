@@ -10,7 +10,7 @@ layout: default
 制限時間内にクイズを解き、できる限り高いスコアを獲得せよ。獲得スコアが高かった6名には賞品を贈呈する。
 
 - 参加対象者: Returns2019に出席しているSecHack365修了生
-- 制限時間: 14:10-15:20 Septembar 28, 2019 JST
+- 制限時間: 14:10- <s>15:20</s> 15:45 Septembar 28, 2019 JST
 
 # How?
 1. 問題は[ProblemPage](https://docs.google.com/spreadsheets/d/1ezr8o6-NMSt7WFJRVk3s5TtH_zxukOyCIZ96LU5eh3Q/edit?usp=sharing)から閲覧
