@@ -9,10 +9,7 @@ layout: default
 
 # Prizes
 
-## 園田賞#1「BlackHat ショルダーバッグ」
-<img src="images/sonoda1.png" width="300px">
-
-## 園田賞#2「r2con ショルダーバッグ」
+## 園田賞「r2con ショルダーバッグ」
 <img src="images/sonoda2.png" width="300px">
 
 ## 坂井賞#1「熱血バイナリアンTシャツ」
@@ -26,4 +23,7 @@ layout: default
 以下の中から1つお選びいただけます。
 
 <img src="images/seccon.jpg" width="600px">
+
+# シークレット賞
+その他、シークレット賞もあり！！
 
