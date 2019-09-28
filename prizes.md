@@ -18,6 +18,9 @@ layout: default
 ## 坂井賞#2「31バイトでつくるアセンブラプログラミング　～アセンブラ短歌の世界～」
 <img src="images/sakai2.jpg" width="300px">
 
+## 今賞「ハッカドールTシャツ」x2
+<img src="images/kon.jpg" width="300px">
+
 
 ## SECCON賞「SECCONのTシャツ・パーカー」x3
 以下の中から1つお選びいただけます。
